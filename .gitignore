@@ -1,22 +1,6 @@
-# Byte-compiled / optimized Python files
-__pycache__/
-*.py[cod]
+# dirs
+/venv
 
-# Virtual environment
-venv/
-env/
-.env/
-
-# Database
-*.sqlite3
-*.db
-*.db.sqlite3
-
-# Log files
-*.log
-
-# Temporary files
-*.tmp
-
-# Environment variables
+# files
 .env
+*.sqlite3

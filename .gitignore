@@ -1,6 +1,31 @@
-# dirs
-/venv
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
 
-# files
-.env
+# Virtual environment
+venv/
+env/
+.env/
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Database
 *.sqlite3
+*.db
+*.db.sqlite3
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment variables
+.env
+
+# Ignore local settings file
+local_settings.py
